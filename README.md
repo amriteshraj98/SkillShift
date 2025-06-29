@@ -1,4 +1,4 @@
-# study-notion(Backend)
+# SkillShift(Backend)
 The back-end of the platform is built using NodeJS and ExpressJS, providing APIs for the front-end to consume. These APIs include functionalities such as user authentication, course creation, and course consumption. The back-end also handles the logic for processing and storing the course content and user data.
 
 Back-end Features
@@ -8,7 +8,7 @@ Payment Integration: Students will purchase and enroll in courses by completing 
 Cloud-based Media Management: StudyNotion uses Cloudinary, a cloud-based media management service, to store and manage all media content, including images, videos, and documents.
 Markdown Formatting: Course content in document format is stored in Markdown format, allowing for easier display and rendering on the front-end.
 Back-end Frameworks, Libraries, and Tools
-The back-end of StudyNotion uses various frameworks, libraries, and tools to ensure its functionality and performance, including:
+The back-end of SkillShift uses various frameworks, libraries, and tools to ensure its functionality and performance, including:
 
 Node.js: Used as the primary framework for the back-end.
 Express.js: Used as a web application framework, providing a range of features and tools for building web applications.
